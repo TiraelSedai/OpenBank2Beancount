@@ -1,0 +1,10 @@
+{
+  "Транспорт": "Expenses:Transport:Taxi",
+  "Продукты": "Expenses:Food:Groceries",
+  "Рестораны и кафе": "Expenses:Food:Dining",
+  "Комисcия": "Expenses:TaxesFees",
+  "Платежи": "Expenses:House:Bills",
+  "Перевод между своими счетами": "Assets:SomewhereElse:FIXME",
+  "Красота и здоровье": "Expenses:Health",
+  "Развлечения и шопинг": "Expenses:FIXME"
+}
