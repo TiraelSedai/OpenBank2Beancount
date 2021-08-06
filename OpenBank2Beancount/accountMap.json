@@ -1,10 +1,17 @@
 {
-  "Транспорт": "Expenses:Transport:Taxi",
-  "Продукты": "Expenses:Food:Groceries",
-  "Рестораны и кафе": "Expenses:Food:Dining",
-  "Комисcия": "Expenses:TaxesFees",
-  "Платежи": "Expenses:House:Bills",
-  "Перевод между своими счетами": "Assets:SomewhereElse:FIXME",
-  "Красота и здоровье": "Expenses:Health",
-  "Развлечения и шопинг": "Expenses:FIXME"
+    "Транспорт": "Expenses:Transport:Taxi",
+    "Продукты": "Expenses:Food:Groceries",
+    "Рестораны и кафе": "Expenses:Food:Dining",
+    "Комисcия": "Expenses:TaxesFees",
+    "Платежи": "Expenses:Home:Bills",
+    "Перевод между своими счетами": "Assets:SomewhereElse:FIXME",
+    "Красота и здоровье": "Expenses:Health",
+    "Развлечения и шопинг": "Expenses:FIXME",
+    "Перевод денежных средств": "Expenses:Moneytransfer:FIXME",
+    "Другое": "Expenses:FIXME",
+    "Одежда и аксессуары": "Expenses:Clothing",
+    "Бизнес услуги": "Expenses:Services:FIXME",
+    "Путешествия": "Expenses:Travel:FIXME",
+    "Дом": "Expenses:Home:Renovation",
+    "Компенсация": "Income:Cashback"
 }
